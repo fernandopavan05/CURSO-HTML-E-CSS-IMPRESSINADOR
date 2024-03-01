@@ -1,0 +1,168 @@
+* {
+  font-family: "Monstserrat", sans-serif;
+  color: #404040;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 35px;
+}
+
+strong {
+  font-weight: 600;
+}
+
+.botao {
+  font-size: 24px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+/* cabecalho */
+.itens-lista-topo a {
+  color: #112e61;
+  font-size: 14px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+/* seção hero */
+h1 {
+  font-size: 35px;
+  font-weight: 600;
+}
+
+.cursos-secao-hero {
+  font-size: 19px;
+}
+
+/* seção conteudo gratuito */
+
+.realce-100 {
+  font-weight: 600;
+  color: #7a40be;
+}
+
+.h3-treinamentos,
+.h3-programacao {
+  font-size: 23px;
+  font-weight: 700;
+}
+
+.gratuito-item-lista {
+  font-size: 19px;
+  text-decoration: none;
+}
+
+/* seção Diferenciais */
+
+.diferenciais-p {
+  font-size: 19px;
+}
+
+.h3-diferenciais {
+  color: #005e88;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.paragrafos-secao-diferenciais {
+  font-size: 16px;
+}
+
+.h3-diferenciais-empresa {
+  font-weight: 400;
+  font-size: 35px;
+}
+
+.h3-diferenciais-empresa a {
+  color: #005e88;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+/* Seção o que falam */
+
+.realce-oquefalam {
+  font-size: 35px;
+  font-weight: 700;
+  color: #005e88;
+}
+
+/* seção Na Midia */
+
+/* seção blog */
+
+.blog-postadoem {
+  font-size: 15px;
+}
+
+.blog-postadoem a {
+  color: #f7a70c;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.blog-titulopost {
+  font-size: 24px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.blog-descricao {
+  font-size: 17px;
+}
+
+/* seção como ajudar */
+
+.realce-h2-comoaajudar {
+  font-size: 35px;
+  font-weight: 600;
+}
+
+.comoajudar-li,
+.comoajudar-paragrafos {
+  font-size: 19px;
+}
+
+.comoajudar-li a,
+.comoajudar-paragrafos a {
+  color: #007bff;
+  font-weight: 600;
+}
+
+.comoajudar-paragrafos b{
+  font-weight: 600
+}
+
+/* Seção Minicurso  */
+
+.minicurso-realce{
+  font-weight: 600;
+}
+
+.minicurso-paragrafo{
+  font-size: 19px;
+}
+
+/* seção rodape */
+
+.rodape-titulos{
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.rodape-subtitulo{
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.rodape-subtitulo-2{
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.rodape-link{
+  color: #1a77a4;
+}
